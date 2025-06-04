@@ -1,0 +1,1 @@
+"Esses códigos mandam mensagens automáticas."
