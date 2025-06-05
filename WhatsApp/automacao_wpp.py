@@ -1,1 +1,1 @@
-"Esses códigos mandam mensagens automáticas."
+"Mas uma alteração"
